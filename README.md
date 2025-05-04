@@ -1,8 +1,6 @@
 # L1-Linux-Administrator-Handbook
 A guide that covers essential commands, system management tasks, and troubleshooting techniques
 
-Absolutely! Here's a concise and practical Linux handbook tailored for a Level 1 (L1) Linux Administrator. This guide covers essential commands, system management tasks, and troubleshooting techniques to help you navigate and manage Linux systems effectively.
-
 ---
 
 ## 🐧 **L1 Linux Administrator Handbook**
